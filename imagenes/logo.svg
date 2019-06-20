@@ -1,0 +1,17 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_17">
+   <ellipse fill="#FF0000" stroke="#000000" stroke-width="5" cx="233" cy="155" id="svg_2"/>
+   <ellipse fill="#FF0000" stroke="#000000" stroke-width="5" cx="279" cy="156" id="svg_3"/>
+   <ellipse fill="#aad4ff" cx="278.000003" cy="176.500001" rx="17.04121" ry="74" transform="rotate(-0.6547778844833374 278,176.49999999999937) " stroke="#000000" id="svg_9"/>
+   <ellipse fill="#aad4ff" cx="275.999996" cy="178.500001" rx="17.04121" ry="74" transform="rotate(57.709381103515625 275.99999999999994,178.50000000000003) " stroke="#000000" id="svg_10"/>
+   <ellipse fill="#aad4ff" cx="277.000003" cy="176.500001" rx="17.04121" ry="74" transform="rotate(-62.908512115478516 277,176.49999999999997) " stroke="#000000" id="svg_11"/>
+   <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="278" y="185" id="svg_12" font-size="24" font-family="Fantasy" text-anchor="middle" xml:space="preserve">AAGC</text>
+   <ellipse fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="223" cy="160.5" id="svg_13" rx="7" ry="6.5" stroke="#000000" stroke-width="0" opacity="0.7"/>
+   <ellipse fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="267" cy="223.5" rx="7" ry="6.5" stroke="#000000" id="svg_14" opacity="0.7"/>
+   <ellipse fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="325" cy="163.5" rx="7" ry="6.5" stroke="#000000" stroke-width="0" opacity="0.7" id="svg_16"/>
+  </g>
+ </g>
+</svg>
